@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
   <a href="https://github.com/lopes-gustavodossantos">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=lopes-gustavodossantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopes-gustavodossantos&layout=compact&langs_count=7&theme=dark"/>
@@ -9,6 +9,7 @@
   <a href = "mailto:lopes.gustavodossantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"_blank"></a>
 </div>
 
+<div align="center">
 button {
   font-family: inherit;
   font-size: 20px;
@@ -61,4 +62,4 @@ button:active {
     transform: translateY(-0.1em);
   }
 }
-
+</div>
