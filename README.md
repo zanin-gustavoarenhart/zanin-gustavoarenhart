@@ -26,8 +26,7 @@
 
   <br/>
   
- ### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+ ### Experiência de trabalho:
 
 [<img align="left" height="120px" width="120px" alt="Warpnet" src="https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo.d35fe3b1.svg"/>](https://www.compass.uol/)
 
