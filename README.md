@@ -19,7 +19,7 @@
   <img align="center" alt="Postman" height="45" width="50" title="Postman" src="https://skillicons.dev/icons?i=postman">
   <img align="center" alt="Java" height="45" width="50" title="Java" src="https://skillicons.dev/icons?i=java">
   <img align="center" alt="C++" height="45" width="50" title="C++" src="https://skillicons.dev/icons?i=cpp">
-  <br>
+  &ensp;
   <img align="center" alt="Arduino" height="45" width="50" title="Arduino" src="https://skillicons.dev/icons?i=arduino">
   <img align="center" alt="Photoshop" height="45" width="50" title="Photoshop" src="https://skillicons.dev/icons?i=ps">
   <img align="center" alt="Premiere" height="45" width="50" title="Premiere" src="https://skillicons.dev/icons?i=pr">
