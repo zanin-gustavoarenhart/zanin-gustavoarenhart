@@ -5,25 +5,25 @@
 </div>
   
 <div align="center"><br>
-  <img align="center" alt="ReactNative" height="45" width="50" title="ReactNative" src="https://skillicons.dev/icons?i=react">
-  <img align="center" alt="JavaScript" height="45" width="50" title="JavaScript" src="https://skillicons.dev/icons?i=js">
-  <img align="center" alt="Nodejs" height="45" width="50" title="Nodejs" src="https://skillicons.dev/icons?i=nodejs">
-  <img align="center" alt="TypeScript" height="45" width="50" title="TypeScript" src="https://skillicons.dev/icons?i=ts">
-  <img align="center" alt="HTML" height="45" width="50" title="HTML" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="CSS" height="45" width="50" title="CSS" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="AWS" height="45" width="50" title="AWS" src="https://skillicons.dev/icons?i=aws">
-  <img align="center" alt="Python" height="45" width="50" title="Python" src="https://skillicons.dev/icons?i=py">
-  <img align="center" alt="PHP" height="45" width="50" title="PHP" src="https://skillicons.dev/icons?i=php">
-  <img align="center" alt="Laravel" height="45" width="50" title="Laravel" src="https://skillicons.dev/icons?i=laravel">
-  <img align="center" alt="Postgres" height="45" width="50" title="Postgres" src="https://skillicons.dev/icons?i=postgres">
-  <img align="center" alt="Postman" height="45" width="50" title="Postman" src="https://skillicons.dev/icons?i=postman">
-  <img align="center" alt="Java" height="45" width="50" title="Java" src="https://skillicons.dev/icons?i=java">
-  <img align="center" alt="C++" height="45" width="50" title="C++" src="https://skillicons.dev/icons?i=cpp">
-  <br>
-  <img align="center" alt="Arduino" height="45" width="50" title="Arduino" src="https://skillicons.dev/icons?i=arduino">
-  <img align="center" alt="Photoshop" height="45" width="50" title="Photoshop" src="https://skillicons.dev/icons?i=ps">
-  <img align="center" alt="Premiere" height="45" width="50" title="Premiere" src="https://skillicons.dev/icons?i=pr">
-  <img align="center" alt="Unreal" height="45" width="50" title="Unreal" src="https://skillicons.dev/icons?i=Unreal">
+  <img align="center" alt="ReactNative" height="50" width="50" title="ReactNative" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="JavaScript" height="50" width="50" title="JavaScript" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="Nodejs" height="50" width="50" title="Nodejs" src="https://skillicons.dev/icons?i=nodejs">
+  <img align="center" alt="TypeScript" height="50" width="50" title="TypeScript" src="https://skillicons.dev/icons?i=ts">
+  <img align="center" alt="HTML" height="50" width="50" title="HTML" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="CSS" height="50" width="50" title="CSS" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="AWS" height="50" width="50" title="AWS" src="https://skillicons.dev/icons?i=aws">
+  <img align="center" alt="Python" height="50" width="50" title="Python" src="https://skillicons.dev/icons?i=py">
+  <img align="center" alt="PHP" height="50" width="50" title="PHP" src="https://skillicons.dev/icons?i=php">
+  <img align="center" alt="Laravel" height="50" width="50" title="Laravel" src="https://skillicons.dev/icons?i=laravel">
+  <img align="center" alt="Postgres" height="50" width="50" title="Postgres" src="https://skillicons.dev/icons?i=postgres">
+  <img align="center" alt="Postman" height="50" width="50" title="Postman" src="https://skillicons.dev/icons?i=postman">
+  <img align="center" alt="Java" height="50" width="50" title="Java" src="https://skillicons.dev/icons?i=java">
+  <img align="center" alt="C++" height="50" width="50" title="C++" src="https://skillicons.dev/icons?i=cpp">
+  <br><br>
+  <img align="center" alt="Arduino" height="50" width="50" title="Arduino" src="https://skillicons.dev/icons?i=arduino">
+  <img align="center" alt="Photoshop" height="50" width="50" title="Photoshop" src="https://skillicons.dev/icons?i=ps">
+  <img align="center" alt="Premiere" height="50" width="50" title="Premiere" src="https://skillicons.dev/icons?i=pr">
+  <img align="center" alt="Unreal" height="50" width="50" title="Unreal" src="https://skillicons.dev/icons?i=Unreal">
 </div>
   
   ##
