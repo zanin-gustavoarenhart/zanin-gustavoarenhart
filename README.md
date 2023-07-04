@@ -4,7 +4,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopes-gustavodossantos&layout=compact&langs_count=7&theme=highcontrast">
 </div>
   
-<div align="center" &perline=15><br>
+<div align="center"><br>
   <img align="center" alt="ReactNative" height="50" width="50" title="ReactNative" src="https://skillicons.dev/icons?i=react">
   <img align="center" alt="JavaScript" height="50" width="50" title="JavaScript" src="https://skillicons.dev/icons?i=js">
   <img align="center" alt="Nodejs" height="50" width="50" title="Nodejs" src="https://skillicons.dev/icons?i=nodejs">
