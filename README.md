@@ -38,16 +38,16 @@
 
 [<img align="left" height="120px" width="120px" alt="Warpnet" src="https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo.d35fe3b1.svg"/>](https://www.compass.uol/)
 
-**Mobile Developer**\
-[**Compass UOL**](https://www.compass.uol/) • Internship\
+**Mobile Developer** \
+[**Compass UOL**](https://www.compass.uol/) • Internship \
 Languages & Technologies: `React Native`, `JavaScript`, `Node.js`,`TypeScript`,`HTML`,`CSS`,`AWS`\
 19/06/2023 - Now
 
 [<img align="left" height="120px" width="120px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQE6ssKgZq5aeg/company-logo_200_200/0/1610657784412?e=2147483647&v=beta&t=f_BsxhLhB7ajDDRjhupySrpGt8JPOhc4GHnzyQyhIFY"/>](https://veplex.com.br)
 
-**Web Developer**\
-[**Veplex Sistemas de Informação LTDA**](https://veplex.com.br) • Internship\
-Languages & Technologies: `Python`, `PHP`, `Laravel`,`PostgreSQL`,`Postman`\
+**Web Developer** \
+[**Veplex Sistemas de Informação LTDA**](https://veplex.com.br) • Internship \
+Languages & Technologies: `Python`, `PHP`, `Laravel`,`PostgreSQL`,`Postman` \
 18/10/2022 - 26/01/2023
 
 <div align="center"><br>
