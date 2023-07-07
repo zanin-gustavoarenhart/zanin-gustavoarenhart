@@ -22,7 +22,7 @@
   <img align="center" alt="Arduino" height="50" width="50" title="Arduino" src="https://skillicons.dev/icons?i=arduino">
   <img align="center" alt="Photoshop" height="50" width="50" title="Photoshop" src="https://skillicons.dev/icons?i=ps">
   <img align="center" alt="Premiere" height="50" width="50" title="Premiere" src="https://skillicons.dev/icons?i=pr">
-  <img align="center" alt="Unreal" height="50" width="50" title="Unreal" src="https://skillicons.dev/icons?i=Unreal">
+  <img align="center" alt="Unreal" height="50" width="50" title="Unreal" src="https://skillicons.dev/icons?i=unreal">
 </div>
   
   ##
