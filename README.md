@@ -36,7 +36,7 @@
 
 ### Professional Experience:
 
-><img src="https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo.d35fe3b1.svg" width="120" height="120">
+><img src="https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo.d35fe3b1.svg" width="120" height="120">(https://www.compass.uol/)
 **Mobile Developer**\
 [**Compass UOL**](https://www.compass.uol/) • Internship\
 Languages & Technologies: `React Native`, `JavaScript`, `Node.js`,`TypeScript`,`HTML`,`CSS`,`AWS`\
