@@ -43,7 +43,7 @@ Languages & Technologies: `React Native`, `JavaScript`, `Node.js`,`TypeScript`,`
 19/06/2023 - Now
 
 >[<img align="left" height="120px" width="120px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQE6ssKgZq5aeg/company-logo_200_200/0/1610657784412?e=2147483647&v=beta&t=f_BsxhLhB7ajDDRjhupySrpGt8JPOhc4GHnzyQyhIFY"/>](https://veplex.com.br)
-><img src="https://github.com/lopes-gustavodossantos/Challenge_1_Week_4_Compass.UOL/assets/94156483/178d2523-b21e-47d0-bfc0-59dbd0e414db" width="120" height="120">
+
 **Web Developer**\
 [**Veplex Sistemas de Informação LTDA**](https://veplex.com.br) • Internship\
 Languages & Technologies: `Python`, `PHP`, `Laravel`,`PostgreSQL`,`Postman`\
