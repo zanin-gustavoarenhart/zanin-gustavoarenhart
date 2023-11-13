@@ -40,7 +40,7 @@
 **Mobile Developer**\
 [**Compass UOL**](https://www.compass.uol/) • Internship\
 Languages & Technologies: `React Native`, `JavaScript`, `TypeScript`, `Node.js`, `HTML`, `CSS`, `AWS`\
-19/06/2023 - Now
+19/06/2023 - 15/11/2023
 >
 >[<img align="left" height="100px" width="100px" src="https://media.licdn.com/dms/image/C4D0BAQE6ssKgZq5aeg/company-logo_200_200/0/1610657784412?e=2147483647&v=beta&t=f_BsxhLhB7ajDDRjhupySrpGt8JPOhc4GHnzyQyhIFY"/>](https://veplex.com.br)
 **Web Developer**\
