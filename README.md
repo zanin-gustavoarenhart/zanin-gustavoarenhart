@@ -36,6 +36,12 @@
 
 ### Professional Experience:
 
+>[<img align="left" height="100px" width="100px" src="https://meu.inss.gov.br/static/media/inss-logo.0e1a042d.png"/>](https://www.gov.br/inss/pt-br)
+**Technical Support**\
+[**INSS**](https://www.gov.br/inss/pt-br) • Internship\
+Languages & Technologies:\
+19/06/2023 - Now
+>
 >[<img align="left" height="100px" width="100px" src="https://logospng.org/download/compasso-uol/compasso-uol-4096.png"/>](https://www.compass.uol/)
 **Mobile Developer**\
 [**Compass UOL**](https://www.compass.uol/) • Internship\
