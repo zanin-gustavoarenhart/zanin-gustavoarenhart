@@ -36,7 +36,7 @@
 
 ### Professional Experience:
 
->[<img align="left" height="100px" width="100px" src="https://meu.inss.gov.br/static/media/inss-logo.0e1a042d.png"/>](https://www.gov.br/inss/pt-br)
+>[<img align="left" height="100px" width="100px" src="https://logowik.com/content/uploads/images/instituto-nacional-do-seguro-social-inss7973.logowik.com.webp"/>](https://www.gov.br/inss/pt-br)
 **Technical Support**\
 [**INSS**](https://www.gov.br/inss/pt-br) • Internship\
 Languages & Technologies:\
