@@ -39,8 +39,8 @@
 >[<img align="left" height="100px" width="100px" src="https://logowik.com/content/uploads/images/instituto-nacional-do-seguro-social-inss7973.logowik.com.webp"/>](https://www.gov.br/inss/pt-br)
 **Technical Support**\
 [**INSS**](https://www.gov.br/inss/pt-br) • Internship\
-Languages & Technologies:\
-19/06/2023 - Now
+Languages & Technologies: `Technical Support`\
+11/12/2023 - Now
 >
 >[<img align="left" height="100px" width="100px" src="https://logospng.org/download/compasso-uol/compasso-uol-4096.png"/>](https://www.compass.uol/)
 **Mobile Developer**\
