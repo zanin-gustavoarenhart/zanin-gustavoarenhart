@@ -53,7 +53,3 @@ Languages & Technologies: `React Native` `JavaScript` `TypeScript` `Node.js` `HT
 [**Veplex Sistemas de Informação LTDA**](https://veplex.com.br) • Internship\
 Languages & Technologies: `Python` `PHP` `Laravel` `PostgreSQL` `HTML` `CSS` `Postman`\
 18/10/2022 - 26/01/2023
-
-<div align="center"><br>
-  ![Snake animation](https://github.com/lopes-gustavodossantos/lopes-gustavodossantos/blob/output/github-contribution-grid-snake.svg)
-</div>
