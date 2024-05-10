@@ -55,6 +55,5 @@ Languages & Technologies: `Python` `PHP` `Laravel` `PostgreSQL` `HTML` `CSS` `Po
 18/10/2022 - 26/01/2023
 
 <div align="center"><br>
-  
-  ![Snake animation](https://github.com/lopes-gustavodossantos/lopes-gustavodossantos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lopes-gustavodossantos/lopes-gustavodossantos/blob/output/github-contribution-grid-snake2.svg)
 </div>
