@@ -50,6 +50,6 @@ Languages & Technologies: `React Native` `JavaScript` `TypeScript` `Node.js` `HT
 >
 >[<img align="left" height="100px" width="100px" src="https://media.licdn.com/dms/image/C4D0BAQE6ssKgZq5aeg/company-logo_200_200/0/1610657784412?e=2147483647&v=beta&t=f_BsxhLhB7ajDDRjhupySrpGt8JPOhc4GHnzyQyhIFY"/>](https://veplex.com.br)
 **Web Developer**\
-[**Veplex Sistemas de Informação LTDA**](https://veplex.com.br) • Internship\
+[**Veplex Sistemas de Informação**](https://veplex.com.br) • Internship\
 Languages & Technologies: `Python` `PHP` `Laravel` `PostgreSQL` `HTML` `CSS` `Postman`\
 10/18/2022 - 01/26/2023
