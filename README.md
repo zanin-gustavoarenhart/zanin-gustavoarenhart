@@ -40,7 +40,7 @@
 **Technical Support**\
 [**INSS**](https://www.gov.br/inss/pt-br) • Internship\
 Languages & Technologies: `Technical Support`\
-12/11/2023 - Now
+12/11/2023 - 01/22/2025
 >
 >[<img align="left" height="100px" width="100px" src="https://logospng.org/download/compasso-uol/compasso-uol-4096.png"/>](https://www.compass.uol/)
 **Mobile Developer**\
