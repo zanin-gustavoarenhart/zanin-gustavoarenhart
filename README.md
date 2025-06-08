@@ -41,21 +41,18 @@
 Languages & Technologies: `Loading Changes...`\
 06/03/2025 -
 >
->>
 >[<img align="left" height="100px" width="100px" src="https://logowik.com/content/uploads/images/instituto-nacional-do-seguro-social-inss7973.logowik.com.webp"/>](https://www.gov.br/inss/pt-br)
 **Technical Support** • Internship\
 [**INSS**](https://www.gov.br/inss/pt-br)\
 Languages & Technologies: `Technical Support`\
 12/11/2023 - 01/22/2025
 >
->>
 >[<img align="left" height="100px" width="100px" src="https://logospng.org/download/compasso-uol/compasso-uol-4096.png"/>](https://www.compass.uol/)
 **Mobile Developer** • Internship\
 [**Compass UOL**](https://www.compass.uol/)\
 Languages & Technologies: `React Native` `JavaScript` `TypeScript` `Node.js` `HTML` `CSS` `AWS`\
 06/19/2023 - 11/15/2023
 >
->>
 >[<img align="left" height="100px" width="100px" src="https://media.licdn.com/dms/image/C4D0BAQE6ssKgZq5aeg/company-logo_200_200/0/1610657784412?e=2147483647&v=beta&t=f_BsxhLhB7ajDDRjhupySrpGt8JPOhc4GHnzyQyhIFY"/>](https://veplex.com.br)
 **Web Developer** • Internship\
 [**Veplex Sistemas de Informação**](https://veplex.com.br)\
