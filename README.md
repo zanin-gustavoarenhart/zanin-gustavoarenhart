@@ -44,7 +44,7 @@ Languages & Technologies: `Active Directory` `Microsoft Exchange Admin` `Tiflux`
 >[<img align="left" height="100px" width="100px" src="https://logowik.com/content/uploads/images/instituto-nacional-do-seguro-social-inss7973.logowik.com.webp"/>](https://www.gov.br/inss/pt-br)
 **Technical Support** • Internship\
 [**INSS**](https://www.gov.br/inss/pt-br)\
-Languages & Technologies: `null`\
+Languages & Technologies: `N/A`\
 12/11/2023 - 01/22/2025
 >
 >[<img align="left" height="100px" width="100px" src="https://logospng.org/download/compasso-uol/compasso-uol-4096.png"/>](https://www.compass.uol/)
