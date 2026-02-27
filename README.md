@@ -38,7 +38,7 @@
 >[<img align="left" height="100px" width="100px" src="https://media.licdn.com/dms/image/v2/C560BAQGuWaA9brLFKA/company-logo_200_200/company-logo_200_200/0/1673296779179/forza_jmalucelli_logo?e=2147483647&v=beta&t=VWyNrDlzZ2P99DIiY6HkTwFBBsYw2b0AWLV95-SDemw"/>](https://www.forzajmalucelli.com.br/)
 **IT Assistant**\
 [**Forza JMalucelli**](https://www.forzajmalucelli.com.br/)\
-Languages & Technologies: `Loading Changes...`\
+Languages & Technologies: `Active Directory` `Microsoft Exchange Admin` `Tiflux`\
 06/03/2025 -
 >
 >[<img align="left" height="100px" width="100px" src="https://logowik.com/content/uploads/images/instituto-nacional-do-seguro-social-inss7973.logowik.com.webp"/>](https://www.gov.br/inss/pt-br)
