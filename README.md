@@ -48,7 +48,7 @@ Languages & Technologies: `N/A`\
 Languages & Technologies: `React Native` `JavaScript` `TypeScript` `Node.js` `HTML` `CSS` `AWS`\
 06/19/2023 - 11/15/2023
 >
->[<img align="left" height="100px" width="100px" src="https://media.licdn.com/dms/image/C4D0BAQE6ssKgZq5aeg/company-logo_200_200/0/1610657784412?e=2147483647&v=beta&t=f_BsxhLhB7ajDDRjhupySrpGt8JPOhc4GHnzyQyhIFY"/>](https://veplex.com.br)
+>[<img align="left" height="100px" width="100px" src="https://www.veplex.com.br/assets/veplex-logo.png"/>](https://veplex.com.br)
 **Web Developer** • Internship\
 [**Veplex Sistemas de Informação**](https://veplex.com.br)\
 Languages & Technologies: `Python` `PHP` `Laravel` `PostgreSQL` `HTML` `CSS` `Postman`\
