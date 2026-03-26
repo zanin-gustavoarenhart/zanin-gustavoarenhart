@@ -34,7 +34,7 @@
 **IT Assistant**\
 [**Forza JMalucelli**](https://www.forzajmalucelli.com.br/)\
 Languages & Technologies: `Active Directory` `Microsoft Exchange Admin` `Tiflux`\
-06/03/2025 -
+06/03/2025 - 03/11/2026
 >
 >[<img align="left" height="100px" width="100px" src="https://logowik.com/content/uploads/images/instituto-nacional-do-seguro-social-inss7973.logowik.com.webp"/>](https://www.gov.br/inss/pt-br)
 **Technical Support** • Internship\
