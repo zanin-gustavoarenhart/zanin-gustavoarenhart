@@ -31,13 +31,13 @@
 
 ### Professional Experience:
 >[<img align="left" height="100px" width="100px" src="https://avatars.githubusercontent.com/u/94156483?v=4"/>](https://www.linkedin.com/in/zanin-gustavoarenhart)
-**Full Stack Developer**\
+**Full Stack Developer** • Full Time\
 [**Independent Contractor**](https://www.linkedin.com/in/zanin-gustavoarenhart)\
 Languages & Technologies: `React` `PHP` `Laravel` `Python` `PostgreSQL`\
 03/12/2026 - 
 >
 >[<img align="left" height="100px" width="100px" src="https://media.licdn.com/dms/image/v2/C560BAQGuWaA9brLFKA/company-logo_200_200/company-logo_200_200/0/1673296779179/forza_jmalucelli_logo?e=2147483647&v=beta&t=VWyNrDlzZ2P99DIiY6HkTwFBBsYw2b0AWLV95-SDemw"/>](https://www.forzajmalucelli.com.br/)
-**IT Assistant**\
+**IT Assistant** • Full Time\
 [**Forza JMalucelli**](https://www.forzajmalucelli.com.br/)\
 Languages & Technologies: `Active Directory` `Microsoft Exchange Admin` `Tiflux`\
 06/03/2025 - 03/11/2026
