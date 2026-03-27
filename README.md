@@ -30,7 +30,7 @@
 <br>
 
 ### Professional Experience:
->[<img align="left" height="100px" width="100px" src="https://avatars.githubusercontent.com/u/94156483?v=4"/>](www.linkedin.com/in/zanin-gustavoarenhart)
+>[<img align="left" height="100px" width="100px" src="https://avatars.githubusercontent.com/u/94156483?v=4"/>](https://www.linkedin.com/in/zanin-gustavoarenhart)
 **Full Stack Developer**\
 [**Independent Contractor**]()\
 Languages & Technologies: `React` `PHP` `Laravel` `Python` `PostgreSQL`\
