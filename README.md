@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/zanin-gustavoarenhart">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zanin-gustavoarenhart&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanin-gustavoarenhart&layout=compact&langs_count=7&theme=highcontrast">
-</div>
-  
 <div align="center"><br>
   <img align="center" alt="ReactNative" height="50" width="50" title="ReactNative" src="https://skillicons.dev/icons?i=react">
   <img align="center" alt="TypeScript" height="50" width="50" title="TypeScript" src="https://skillicons.dev/icons?i=ts">
